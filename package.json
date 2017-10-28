@@ -1,6 +1,6 @@
 {
   "name": "ckeditor5-build-classic-markdown",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0",
   "description": "CKEditor 5 classic editor build plus markdown",
   "keywords": [
     "ckeditor5",
